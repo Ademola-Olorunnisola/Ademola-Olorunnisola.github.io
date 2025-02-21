@@ -1,22 +1,13 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tum Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Approximate solution of space fractional order diffusionequations by Gegenbauer collocation and compact finite difference scheme
+    authors: K. Issa, A.S. Olorunnisola, <strong> T. O. Aliu*</strong>, A. D. Adeshola* (*Corresponding authors)
+    pdf: https://journal.nsps.org.ng/index.php/jnsps/article/view/1368/255
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:YFAhmFagGgAJ:scholar.google.com/&output=citation&scisdr=ClEcUejWEPCNtAUsSEg:AFWwaeYAAAAAZ7gqUEhKetF7jLU9o6Fx6H903IQ&scisig=AFWwaeYAAAAAZ7gqUEN1yRZz71CmzxOShOuj8yQ&scisf=4&ct=citation&cd=-1&hl=en
+  
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Development of an improved numerical integration scheme, its algorithm and application in the least square approximation
+    authors: AY Issah, K Issa, A.S. Olorunnisola
+    pdf: https://api-kwasuspace.kwasu.edu.ng/server/api/core/bitstreams/d3ea2eff-3956-4df7-96ef-26703ded5c97/content
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:zZBn4XYu80IJ:scholar.google.com/&output=citation&scisdr=ClEcUejWEPCNtAUtzIU:AFWwaeYAAAAAZ7gr1IWD2JGvW9dRck0DsYOZhUs&scisig=AFWwaeYAAAAAZ7gr1EQLN9f4R-sEapOoAvuNmIU&scisf=4&ct=citation&cd=-1&hl=en
+    
